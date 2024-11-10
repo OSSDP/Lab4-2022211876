@@ -9,7 +9,7 @@ import static org.junit.Assert.assertEquals;
 public class L2022211876_7_Test {
     Solution7 solution = new Solution7();
     // 有效等价类
-    @Test
+    @Test//for
     public void testValidInputs() {
         // 测试示例 1
         String s1 = "dcab";
