@@ -1,11 +1,11 @@
-import org.junit.Assert;
+
+
 import org.junit.Test;
 
 import java.util.Arrays;
 import java.util.List;
 
 import static org.junit.Assert.assertEquals;
-
 public class L2022211876_7_Test {
     Solution7 solution = new Solution7();
     // 有效等价类
