@@ -3,7 +3,7 @@ name: tests with Auto Merge
 on:
   push:
     branches:
-      - main
+      - master
   pull_request:
     types: [opened, synchronize, ready_for_review, review_requested]
 
