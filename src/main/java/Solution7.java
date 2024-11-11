@@ -4,6 +4,7 @@ import java.util.Map;
 import java.util.PriorityQueue;
 /**
  * @description:
+ waddawdaadjnuanfu
  *
  * 给你一个字符串 s，以及该字符串中的一些「索引对」数组 pairs，其中 pairs[i] = [a, b] 表示字符串中的两个索引（编号从 0 开始）。
  *
